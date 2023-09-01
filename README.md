@@ -14,10 +14,10 @@
 
   Apasionada, transformando ideas en experiencias digitales con entusiasmo y creatividad.
 
-  <img src="https://img.shields.io/badge/-Nair_Glez-blue?style=flat-square&logo=Linkedin&logoColor=white&color=00BFB2&link=https://https://www.linkedin.com/in/nairglez/)](https://www.linkedin.com/in/nairglez/"/>
-  <img src="https://img.shields.io/badge/-Porfolio-green?style=flat-square&logo=googlechrome&logoColor=white&color=00BFB2&link=https://https://www.linkedin.com/in/nairglez/)(https://portfolio-nannitta.vercel.app/)](https://portfolio-nannitta.vercel.app/"/>
+  <br/>
 
-<br />
+  [<img src="https://img.shields.io/badge/-Nair_Glez-blue?style=flat-square&logo=Linkedin&logoColor=white&color=00BFB2&link=https://www.linkedin.com/in/nairglez/)">](https://www.linkedin.com/in/nairglez/)
+  [<img src="https://img.shields.io/badge/-Porfolio-green?style=flat-square&logo=googlechrome&logoColor=white&color=00BFB2&link=https://portfolio-nannitta.vercel.app/)">](https://portfolio-nannitta.vercel.app/)
 
 </div>
 
