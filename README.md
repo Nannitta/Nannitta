@@ -62,7 +62,6 @@
 
 <h3 align="center">
 Puedes ver mis proyectos aqui
-
-<br />
-👇🏼
 </h3>
+
+<div align="center">👇🏼👇🏼</div>
