@@ -25,7 +25,7 @@
 
 * 🧐 Interesada en el diseño web
 * 🖥️ Actualmente trabajando en pequeños proyectos con JavaScript, React, Node.js...
-* 🌱 Aprendiendo React
+* 🌱 Aprendiendo React y TypeScript
 * 📑 Metas: Aprender nuevos lenguajes. ¡Nunca dejar de crear nuevos proyectos!
 * 🧩 Me entusiasma la idea de colaborar en nuevos proyectos y desafíos
 
