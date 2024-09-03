@@ -16,8 +16,9 @@
 
   <br/>
 
-  [<img src="https://img.shields.io/badge/-Nair_Glez-blue?style=flat-square&logo=Linkedin&logoColor=white&color=02867e&link=https://www.linkedin.com/in/nairglez/)">](https://www.linkedin.com/in/nairglez/)
-  [<img src="https://img.shields.io/badge/-Porfolio-green?style=flat-square&logo=googlechrome&logoColor=white&color=02867e&link=https://nair-gonzalez.vercel.app/)">](https://nair-gonzalez.vercel.app/)
+  [<img src="https://img.shields.io/badge/-Nair_Glez-blue?style=flat-square&logo=Linkedin&logoColor=white&color=02867e&link=https://www.linkedin.com/in/nairglez/">](https://www.linkedin.com/in/nairglez/)
+  [<img src="https://img.shields.io/badge/-Porfolio-green?style=flat-square&logo=googlechrome&logoColor=white&color=02867e&link=https://nair-gonzalez.vercel.app/">](https://nair-gonzalez.vercel.app/)
+  <a href="mailto:nanaa.gonzalez@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Email-green?style=flat-square&logo=gmail&logoColor=white&color=02867e"></a>
 
 </div>
 
